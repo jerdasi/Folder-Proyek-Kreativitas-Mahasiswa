@@ -1,0 +1,20 @@
+Dari sisi Client/Pembeli/Pelanggan :
+- Fitur Login (NIM, Nama)
+- Bisa melihat daftar Warung/Stand Makanan/Penjual
+- Bisa melihat List yang dijual dari Warung/Stand/Penjual
+- Fitur Booking / Pesan Duluan
+- Fitur Status Pesanan dan Cancel
+- Fitur Traffic Warung (Padat Order / Sepi Order)
+- Fitur Bayar Belakang (Optional)
+- Fitur Rekam Makan (Optional)
+  Melihat Riwayat Makanan/Minuman yang pernah dibeli
+- Fitur Keranjang
+- Fitur Langganan dengan Notifikasi (Optional)
+- Fitur Dompet/Transfer/TopUP
+
+Dari sisi Penjual :
+- Fitur Login
+- Fitur Menambahkan/Mengedit/Menghapus Daftar Jualan
+- Fitur List Pesanan yang telah diterima
+- Fitur Status Pesanan dan Cancel
+- Fitur Dompet/Transfer/Kembalian/TopUP

@@ -1,0 +1,18 @@
+Proyek Kreativitas Mahasiswa
+1. Target : Customer/Pelanggan dan Pedangang Kaki Lima/UMKM
+2. Masalah Target : 
+   a. 
+3. Solusi : Aplikasi yang mampu membuat list pesanan mahasiswa terhadap pedagang
+sebelum memulai proses transaksi (COD)
+4. Manfaat : Mahasiswa tidak kerepotan antri dan lebih menghemat waktu saat membeli
+jajanan, dan Pedagang tidak kewalahan menghadapi pesanan yang biasanya spontan kini
+sudah di persiapkan terlebih dahulu sesuai list yang di terima dari Mhs, jadi pedagang
+tinggal menyediakan dan mahasiswa tinggal bayar dan mengambil.
+Baik pedagang dan Mhs sama sama mendapatkan manfaat : Waktu lebih efisien dan
+tenaga tidak perlu keluar banyak.
+5. Kebutuhan Pengguna :
+a. Mahasiswa dapat melihat daftar jajanan, ketersediaan stok, varian rasa, varian harga,
+dan lokasi pedagang
+b. Pedagang dapat membuat list jajanan, harga dan lain-lainnya yang berkaitan dengan
+dagangannya
+c. Pedagang dapat memberi tanda ketika pesanan mhsjadi, dan siap untuk di ambil
